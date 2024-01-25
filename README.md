@@ -8,7 +8,7 @@ This project is an implementation of the C `printf` function in C. The `printf` 
 - Variable argument list handling (`va_list`, `va_start`, `va_arg`, `va_end`)
 
 ## Usage
-To use this `printf` implementation in your C projects, simply include the `printf.h` header file and link with the `printf.c` source file.
+To use this `printf` implementation in your C projects, simply include the `ft_printf.h` header file and link with the `ft_printf.c`, `ft_printf_helpers.c` source files.
 
 ```c
 #include "ft_printf.h"
